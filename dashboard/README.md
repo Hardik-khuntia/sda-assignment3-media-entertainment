@@ -37,3 +37,18 @@ streaming_analytics.streaming_events
 
 ## Dashboard Screenshot
 The live dashboard screenshot is included in this folder for reference.
+## Dashboard Screenshots
+
+The following screenshots show the MongoDB Atlas Charts dashboard and its key visualizations.
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/Dashboard%20Overview.png)
+
+### 2. Content Analytics
+![Content Analytics](screenshots/content_analytics.png)
+
+### 3. Streaming Quality
+![Streaming Quality](screenshots/streaming_quality.png)
+
+### 4. Subscription Analytics
+![Subscription Analytics](screenshots/subscription_analytics.png)
